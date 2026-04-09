@@ -1,0 +1,10 @@
+C:\Users\karti\OneDrive\Desktop\pdf-manager\pdf-manager\src\main\java\com\pdfmanager\dto\PdfDtos.java
+C:\Users\karti\OneDrive\Desktop\pdf-manager\pdf-manager\src\main\java\com\pdfmanager\config\StorageProperties.java
+C:\Users\karti\OneDrive\Desktop\pdf-manager\pdf-manager\src\main\java\com\pdfmanager\model\PdfDocument.java
+C:\Users\karti\OneDrive\Desktop\pdf-manager\pdf-manager\src\main\java\com\pdfmanager\config\StorageStrategy.java
+C:\Users\karti\OneDrive\Desktop\pdf-manager\pdf-manager\src\main\java\com\pdfmanager\PdfManagerApplication.java
+C:\Users\karti\OneDrive\Desktop\pdf-manager\pdf-manager\src\main\java\com\pdfmanager\exception\GlobalExceptionHandler.java
+C:\Users\karti\OneDrive\Desktop\pdf-manager\pdf-manager\src\main\java\com\pdfmanager\exception\PdfExceptions.java
+C:\Users\karti\OneDrive\Desktop\pdf-manager\pdf-manager\src\main\java\com\pdfmanager\service\PdfService.java
+C:\Users\karti\OneDrive\Desktop\pdf-manager\pdf-manager\src\main\java\com\pdfmanager\repository\PdfDocumentRepository.java
+C:\Users\karti\OneDrive\Desktop\pdf-manager\pdf-manager\src\main\java\com\pdfmanager\controller\PdfController.java
